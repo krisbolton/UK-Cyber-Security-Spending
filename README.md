@@ -1,11 +1,15 @@
 # UK Cyber Security Spending
-Details from multiple Freedom of Information (FOI) requests to UK Government Departments, Agencies, and Non-Governmental Bodies relating to Cyber Security spending.
+Data from multiple Freedom of Information (FOI) requests to UK Government Departments, Agencies, and Non-Governmental Bodies relating to Cyber Security spending.
+
+**Status:** This project is currently on going.
+
+- National Ambulance Service data will be recieved within Janurary 2019.
 
 ## The FOI Request
 
 Each Department, Agency or Non-Governmental Body was asked to provide the same information (see [appendix](#appendix) for full text):
 
-1. Provide the total amount of money spent on Cyber Securiyt for financial years 2015-18.
+1. Provide the total amount of money spent on Cyber Security for financial years 2015-18.
 2. The term "Cyber Security" is defined as: "... consider the term to encompass activities relating to information security, computer security and computer network security. Including staff training, consultant services, software and hardware." 
 3. Additionaly, "Details on what training and consultant services were for would be useful."
 
