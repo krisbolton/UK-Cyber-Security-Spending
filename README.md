@@ -6,14 +6,14 @@ Details from multiple Freedom of Information (FOI) requests to UK Government Dep
 Each Department, Agency or Non-Governmental Body was asked to provide the same information (see [appendix](#appendix) for full text):
 
 1. Provide the total amount of money spent on Cyber Securiyt for financial years 2015-18.
-2. The term "Cyber Security" as defined: "... consider the term to encompass activities relating to information security, computer security and computer network security. Including staff training, consultant services, software and hardware." 
+2. The term "Cyber Security" is defined as: "... consider the term to encompass activities relating to information security, computer security and computer network security. Including staff training, consultant services, software and hardware." 
 3. Additionaly, "Details on what training and consultant services were for would be useful."
 
 At the time of the request (December 2018) 1. would provide three and a half years of data.
 
 ## National Ambulance Services
 
-There are sixteen Ambulance Services within the United Kingdom; one each for Scotland, Northern Ireland, Wales, the Isle of Man, Jersey and Guernsey and 10 in England<sup>[[1](#references)]</sup>.
+There are sixteen Ambulance Services within the United Kingdom; one each for Scotland, Northern Ireland, Wales, the Isle of Man, Jersey, Guernsey, and ten in England<sup>[[1](#references)]</sup>.
 
 ## Engand
 
