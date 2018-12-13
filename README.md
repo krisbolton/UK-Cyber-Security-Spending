@@ -1,5 +1,5 @@
-# UK-Cyber-Security-FOI
-Details from Freedom of Information (FOI) requests to UK Government Departments, Agencies, and Non-Governmental Bodies relating to Cyber Security spending.
+# UK Cyber Security Spending
+Details from multiple Freedom of Information (FOI) requests to UK Government Departments, Agencies, and Non-Governmental Bodies relating to Cyber Security spending.
 
 ## National Ambulance Services
 
