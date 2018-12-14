@@ -33,7 +33,8 @@ __Legend__
 
 + Sent :mailbox_with_mail:
 + Acknowledged :thumbsup:
-+ Complete :heavy_check_mark:
++ Complete: Data Held :heavy_check_mark:
++ Complete: No Data Held :x:
 + Overdue :triangular_flag_on_post:
 
 _GitHub doesn't allow text highlighting, so icons were used to increase comprehension at-a-glace._
