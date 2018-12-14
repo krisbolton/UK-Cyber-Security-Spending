@@ -69,7 +69,7 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 
 _Deadline dates are approximations due to difficulty calculating during Christmas holiday period._
 
-:arrow_up: __[Back to Top](#uk-cyber-security-spending)__
+:top: __[Back to Top](#uk-cyber-security-spending)__
 
 ---------------------------------------------------------------------------
 
@@ -149,4 +149,4 @@ You can contact me at:  alt [dot] krisb [at] gmail [dot] com
 >Kind Regards,  
 >Kris Bolton   
 
-:arrow_up: __[Back to Top](#uk-cyber-security-spending)__
+:top: __[Back to Top](#uk-cyber-security-spending)__
