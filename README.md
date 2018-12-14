@@ -14,7 +14,9 @@ If you find this interesting please share it and leave a :star:
 1. [Rationale](#rationale)
 2. [The FOI Request](#the-foi-request)
 3. [Status of Requests](#status-of-requests)
+   * [Prime Minister's Office and Ministerial Departments](#prime-ministers-office-and-ministerial-departments)
    * [National & Regional Ambulance Services](#national-and-regional-ambulance-services)
+4. [The Data](#the-data)
 
 ## Rationale
 
@@ -50,7 +52,7 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 
 | Recipient                                              | Status                   |  Reference No. | Date Sent  | Deadline  |
 | -------------                                          | -------------            | ------------ | ---------- | --------- |
-| [Prime Ministers Office](#prime-ministers-office)      |                          |              |            |           |
+| [Prime Minister's Office](#prime-ministers-office)      |                          |              |            |           |
 | [Attorney General's Offie](#attorney-generals-office)  |                          |              |           |             |
 | [Cabinet Office](#cabinet-office)                      |                          |              |        |       |
 | [Department for Business, Energy and Industrial Strategy](#department-for-business,-energy-and-industrial-strategy)  |     |              |    |    |
