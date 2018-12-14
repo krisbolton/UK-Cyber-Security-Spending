@@ -26,6 +26,8 @@ With states exploring new ways to project their power, protect and enhance their
 
 This is, of course, complex. Public services, such as Ambulance, Police and Fire Services are deciding between protecting people and protecting their infrastructure. This becomes a larger Government issue where national projects, standards, guidelines and ultimately money needs to be provisioned to provide an appropriate level of security nation-wide.
 
+This data can be used to encourage the improvement of cyber security and the overall resilience of the UK.
+
 ## The FOI Request
 
 Each Department, Agency or Non-Governmental Body was asked to provide the same information (see [appendix](#appendix) for full text):
