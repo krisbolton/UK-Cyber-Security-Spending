@@ -9,6 +9,13 @@ This informaiton was provided under the Freedom of Information Act (2000/2002 (S
 
 If you find this interesting please share it and leave a :star:
 
+## Contents
+
+1. [Rationale](#rationale)
+2. [The FOI Request](#the-foi-request)
+3. [Status of Requests](#status-of-requests)
+   * [National & Regional Ambulance Services](#national-and-regional-ambulance-services)
+
 ## Rationale
 
 Cyber Security spending is an indication of the overall security of an organisation and how seriously they take security. The freedom of information requests sent during this project initially target areas of Government, agencies and public bodies whose security can be considered of national importance, and lack of security could be considered a risk to national security. Later, other departments, agencies and bodies will be added to this list.
@@ -39,7 +46,7 @@ __Legend__
 
 _GitHub doesn't allow text highlighting, so icons were used to increase comprehension at-a-glace._
 
-### National & Regional Ambulance Services
+### National and Regional Ambulance Services
 
 | Recipient                                              | Status                   |  Reference No. | Date Sent  | Deadline  |
 | -------------                                          | -------------            | ------------ | ---------- | --------- |
@@ -62,13 +69,13 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 
 _Deadline dates are approximations due to difficulty calculating during Christmas holiday period._
 
-:arrow_up: __[Back to Top](]uk-cyber-security-spending)__
+:arrow_up: __[Back to Top](#uk-cyber-security-spending)__
 
 ---------------------------------------------------------------------------
 
 # The Data
 
-## National & Regional Ambulance Services
+## National and Regional Ambulance Services
 
 There are sixteen Ambulance Services within the United Kingdom; one each for Scotland, Northern Ireland, Wales, the Isle of Man, Jersey, Guernsey, and ten in England<sup>[[1](#references)]</sup>.
 
@@ -114,6 +121,7 @@ There are sixteen Ambulance Services within the United Kingdom; one each for Sco
 
 ### States of Jersey Ambulance Service
 
+:arrow_up: __[Back to Contents](#contents)__
 
 ---------------------------------------------------------------------------
 
@@ -141,4 +149,4 @@ You can contact me at:  alt [dot] krisb [at] gmail [dot] com
 >Kind Regards,  
 >Kris Bolton   
 
-:arrow_up: __[Back to Top](]uk-cyber-security-spending)__
+:arrow_up: __[Back to Top](#uk-cyber-security-spending)__
