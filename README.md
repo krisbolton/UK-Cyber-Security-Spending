@@ -110,13 +110,13 @@ _Deadline dates are approximations due to difficulty calculating during Christma
 
 ## Prime Ministers Office and Ministerial Departments
 
-There are 24 Ministerial Departments within the UK Government along with the Prime Minister's Office.
+There are 24 Ministerial Departments within the UK Government along with the Prime Minister's Office<sup>[[1](#references)]</sup>.
 
 ---------------------------------------------------------------------------
 
 ## National and Regional Ambulance Services
 
-There are sixteen Ambulance Services within the United Kingdom; one each for Scotland, Northern Ireland, Wales, the Isle of Man, Jersey, Guernsey, and ten in England<sup>[[1](#references)]</sup>.
+There are sixteen Ambulance Services within the United Kingdom; one each for Scotland, Northern Ireland, Wales, the Isle of Man, Jersey, Guernsey, and ten in England<sup>[[2](#references)]</sup>.
 
 ## Engand
 
