@@ -15,31 +15,40 @@ Each Department, Agency or Non-Governmental Body was asked to provide the same i
 
 1. Provide the total amount of money spent on Cyber Security for financial years 2015-18.
 2. The term "Cyber Security" is defined as: "... consider the term to encompass activities relating to information security, computer security and computer network security. Including staff training, consultant services, software and hardware." 
-3. Additionaly, "Details on what training and consultant services were for would be useful."
+3. Additionaly, "Details on what training and consultant services were for ..."
 
 At the time of the request (December 2018) 1. would provide three and a half years of data.
 
 ## Status of Requests
 
-__National Ambulance Services__
+__Legend__
 
-| Recipient        | Status        |  Reference # | Date Sent  | Deadline  |
-| -------------    |:-------------:| ------------ | ---------- | --------- |
-| [East of England](#east-of-england-ambulance-service)  |               |              | 13/12/18   | ~16/01/19 |
-| [East Midlands](#east-midlands-abmulance-service)    | Acknowledged  | FOI 18-785   | 13/12/18   | ~16/01/19 |
-| [London](#london-ambulance-service)    |   |   | 13/12/18   | ~16/01/19 |
-| [North West](#north-west-abmulance-service)      |               |              | 13/12/18   | ~16/01/19 | 
-| [North East](#north-east-abmulance-service)       | Acknowledged  | FOI.18.316   | 13/12/18   | ~16/01/19 |
-| [South Central](#south-central-abmulance-service)    |               |              | 13/12/18   | ~16/01/19 |
-| [South East Coast](#south-east-coast-abmulance-service) |               |              | 13/12/18   | ~16/01/19 | 
-| [South Western](#south-western-abmulance-service)    |               |              | 13/12/18   | ~16/01/19 |
-| [West Midlands](#west-midlands-abmulance-service)    |               |              | 13/12/18   | ~16/01/19 |
-| [Yorkshire](#yorkshire-abmulance-service)        | Acknowledged  | 2018/19-346  | 13/12/18   | ~16/01/19 | 
-| [Northern Ireland](#northern-ireland-ambulance-service) | Acknowledged  | AD/IG/01(2)/197-18 | 13/12/18   | ~16/01/19 | 
-| [Welsh](#welsh-ambulance-service)            | Acknowledged  | 23918        | 13/12/18   | ~16/01/19 | 
-| [Guernsey](#guernsey-ambulance-and-rescue-service)         |               |              |    |  | 
-| [Isle of Man](#isle-of-man-ambulance-service)      |               |              |    |  | 
-| [States of Jersey](#states-of-jersey-ambulance-service) |               |              |    |  | 
++ Sent :mailbox_with_mail:
++ Acknowledged :thumbsup:
++ Complete :heavy_check_mark:
++ Overdue :triangular_flag_on_post:
+
+_GitHub doesn't allow text highlighting, so icons were used to increase comprehension at-a-glace._
+
+### National Ambulance Services
+
+| Recipient                                              | Status                   |  Reference # | Date Sent  | Deadline  |
+| -------------                                          | -------------            | ------------ | ---------- | --------- |
+| [East of England](#east-of-england-ambulance-service)  | Sent :mailbox_with_mail: |              | 13/12/18   | ~16/01/19 |
+| [East Midlands](#east-midlands-abmulance-service)      | Acknowledged :thumbsup:  | FOI 18-785   | 13/12/18   | ~16/01/19 |
+| [London](#london-ambulance-service)                    | Sent :mailbox_with_mail: |            | 13/12/18   | ~16/01/19 |
+| [North West](#north-west-abmulance-service)            | Sent :mailbox_with_mail: |              | 13/12/18   | ~16/01/19 | 
+| [North East](#north-east-abmulance-service)            | Acknowledged :thumbsup:  | FOI.18.316   | 13/12/18   | ~16/01/19 |
+| [South Central](#south-central-abmulance-service)      | Sent :mailbox_with_mail: |              | 13/12/18   | ~16/01/19 |
+| [South East Coast](#south-east-coast-abmulance-service)| Sent :mailbox_with_mail: |              | 13/12/18   | ~16/01/19 | 
+| [South Western](#south-western-abmulance-service)      | Sent :mailbox_with_mail: |            | 13/12/18   | ~16/01/19 |
+| [West Midlands](#west-midlands-abmulance-service)      | Sent :mailbox_with_mail: |              | 13/12/18   | ~16/01/19 |
+| [Yorkshire](#yorkshire-abmulance-service)              | Acknowledged :thumbsup:  | 2018/19-346  | 13/12/18   | ~16/01/19 | 
+| [Northern Ireland](#northern-ireland-ambulance-service)| Acknowledged :thumbsup:  | AD/IG/01(2)/197-18 | 13/12/18   | ~16/01/19 | 
+| [Welsh](#welsh-ambulance-service)                      | Acknowledged :thumbsup:  | 23918        | 13/12/18   | ~16/01/19 | 
+| [Guernsey](#guernsey-ambulance-and-rescue-service)     |                          |              |            |           | 
+| [Isle of Man](#isle-of-man-ambulance-service)          |                          |              |            |           | 
+| [States of Jersey](#states-of-jersey-ambulance-service)|                          |              |            |           | 
 
 _Deadline dates are approximations due to difficulty calculating during Christmas holiday period._
 
