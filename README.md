@@ -115,6 +115,14 @@ There are sixteen Ambulance Services within the United Kingdom; one each for Sco
 
 ---------------------------------------------------------------------------
 
+## Copyright
+
+The data contained within this repository was obtained via Freedom of Informaiton requests, as such the informaiton is within the public domain and free to use. Any images or such created by myself contained within this repository are also free to use.
+
+## Contact
+
+You can contact me at:  alt [dot] krisb [at] gmail [dot] com
+
 ## References
 
 [Association of Ambulance Chief Executives (AACE): Map of Member Ambulance Services](https://aace.org.uk/uk-ambulance-service/map-of-nhs-ambulance-services)
