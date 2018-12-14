@@ -1,11 +1,9 @@
 # UK Cyber Security Spending
 Data from multiple Freedom of Information (FOI) requests to UK Government Departments, Agencies, and Non-Governmental Bodies relating to Cyber Security spending.
 
-__Status:__ This project is currently on going. To be completed ~March 2019(?).
+![Project Status: On Going](https://img.shields.io/badge/Project%20Status-On%20Going-orange.svg)
 
-- National Ambulance Service data will be recieved within January 2019.
-
-This informaiton was provided under the Freedom of Information Act (2000/2002 (Scotland)) and is thus free to use. Images below created by myself are also free to use. In the age of fake news, citing original sources is highly recommended.
+The informaiton contained within this repository was provided under the Freedom of Information Act (2000/2002 (Scotland)) and is thus free to use. Images below created by myself are also free to use.
 
 If you find this interesting please share it and leave a :star:
 
