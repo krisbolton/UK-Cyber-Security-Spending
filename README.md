@@ -40,7 +40,7 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 
 ### National Ambulance Services
 
-| Recipient                                              | Status                   |  Reference # | Date Sent  | Deadline  |
+| Recipient                                              | Status                   |  Reference No. | Date Sent  | Deadline  |
 | -------------                                          | -------------            | ------------ | ---------- | --------- |
 | [East of England](#east-of-england-ambulance-service)  | Sent :mailbox_with_mail: |              | 13/12/18   | ~16/01/19 |
 | [East Midlands](#east-midlands-abmulance-service)      | Acknowledged :thumbsup:  | FOI 18-785   | 13/12/18   | ~16/01/19 |
@@ -54,6 +54,7 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 | [Yorkshire](#yorkshire-abmulance-service)              | Acknowledged :thumbsup:  | 2018/19-346  | 13/12/18   | ~16/01/19 | 
 | [Northern Ireland](#northern-ireland-ambulance-service)| Acknowledged :thumbsup:  | AD/IG/01(2)/197-18 | 13/12/18   | ~16/01/19 | 
 | [Welsh](#welsh-ambulance-service)                      | Acknowledged :thumbsup:  | 23918        | 13/12/18   | ~16/01/19 | 
+| [Scottish](#scottish-ambulance-service)                | Acknowledged :thumbsup:  | None given   | 13/12/18   | ~16/01/19 | 
 | [Guernsey](#guernsey-ambulance-and-rescue-service)     |                          |              |            |           | 
 | [Isle of Man](#isle-of-man-ambulance-service)          |                          |              |            |           | 
 | [States of Jersey](#states-of-jersey-ambulance-service)|                          |              |            |           | 
