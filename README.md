@@ -9,6 +9,14 @@ This informaiton was provided under the Freedom of Information Act (2000/2002 (S
 
 If you find this interesting please share it and leave a :star:
 
+## Rationale
+
+Cyber Security spending is an indication of the overall security of an organisation and how seriously they take security. The freedom of information requests sent during this project initially target areas of Government, agencies and public bodies whose security can be considered of national importance, and lack of security could be considered a risk to national security.
+
+With states exploring new ways to project their power, protect and enhance their national interests using Cyber; hybrid warfare, the "grey zone" and disruption. The security of Government and Public Bodies providing critical services is paramount. 
+
+This is, of course, complex. Public services, such as Ambulance, Police and Fire Services are deciding between protecting people and protecting their infrastructure. This becomes a larger Government issue where national projects, standards, guidelines and ultimately money needs to be provisioned to provide an appropriate level of security nation-wide.
+
 ## The FOI Request
 
 Each Department, Agency or Non-Governmental Body was asked to provide the same information (see [appendix](#appendix) for full text):
