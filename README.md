@@ -11,7 +11,7 @@ If you find this interesting please share it and leave a :star:
 
 ## Rationale
 
-Cyber Security spending is an indication of the overall security of an organisation and how seriously they take security. The freedom of information requests sent during this project initially target areas of Government, agencies and public bodies whose security can be considered of national importance, and lack of security could be considered a risk to national security.
+Cyber Security spending is an indication of the overall security of an organisation and how seriously they take security. The freedom of information requests sent during this project initially target areas of Government, agencies and public bodies whose security can be considered of national importance, and lack of security could be considered a risk to national security. Later, other departments, agencies and bodies will be added to this list.
 
 With states exploring new ways to project their power, protect and enhance their national interests using Cyber; hybrid warfare, the "grey zone" and disruption. The security of Government and Public Bodies providing critical services is paramount. 
 
