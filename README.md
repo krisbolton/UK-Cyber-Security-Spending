@@ -77,6 +77,8 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 | [Office of the Secretary of State for Wales](#office-of-the-secretary-of-state-for-wales)  |     |              |    |    |
 | [UK Export Finance](#uk-export-finance)  |     |              |    |    |
 
+:top: __[Back to Top](#uk-cyber-security-spending)__
+
 ### National and Regional Ambulance Services
 
 | Recipient                                              | Status                   |  Reference No. | Date Sent  | Deadline  |
@@ -106,9 +108,9 @@ _Deadline dates are approximations due to difficulty calculating during Christma
 
 # The Data
 
-## Ministerial Departments
+## Prime Ministers Office and Ministerial Departments
 
-There are 25 Ministerial Departments within the UK Government.
+There are 24 Ministerial Departments within the UK Government along with the Prime Minister's Office.
 
 ---------------------------------------------------------------------------
 
