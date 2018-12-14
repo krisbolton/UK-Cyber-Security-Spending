@@ -39,7 +39,7 @@ __Legend__
 
 _GitHub doesn't allow text highlighting, so icons were used to increase comprehension at-a-glace._
 
-### National Ambulance Services
+### National & Regional Ambulance Services
 
 | Recipient                                              | Status                   |  Reference No. | Date Sent  | Deadline  |
 | -------------                                          | -------------            | ------------ | ---------- | --------- |
@@ -66,7 +66,7 @@ _Deadline dates are approximations due to difficulty calculating during Christma
 
 # The Data
 
-## National Ambulance Services
+## National & Regional Ambulance Services
 
 There are sixteen Ambulance Services within the United Kingdom; one each for Scotland, Northern Ireland, Wales, the Isle of Man, Jersey, Guernsey, and ten in England<sup>[[1](#references)]</sup>.
 
