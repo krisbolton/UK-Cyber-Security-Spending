@@ -174,8 +174,8 @@ You can contact me at:  alt [dot] krisb [at] gmail [dot] com
 
 ## References
 
-[UK Government Departments, Agencies and Public Bodies](https://www.gov.uk/government/organisations)
-[Association of Ambulance Chief Executives (AACE): Map of Member Ambulance Services](https://aace.org.uk/uk-ambulance-service/map-of-nhs-ambulance-services)
+1. [UK Government Departments, Agencies and Public Bodies](https://www.gov.uk/government/organisations)
+2. [Association of Ambulance Chief Executives (AACE): Map of Member Ambulance Services](https://aace.org.uk/uk-ambulance-service/map-of-nhs-ambulance-services)
 
 ## Appendix
 ### Freedom of Information Request Letter
