@@ -1,7 +1,7 @@
 # UK Cyber Security Spending
 Data from multiple Freedom of Information (FOI) requests to UK Government Departments, Agencies, and Non-Governmental Bodies relating to Cyber Security spending.
 
-**Status:** This project is currently on going.
+__Status:__ This project is currently on going.
 
 - National Ambulance Service data will be recieved within January 2019.
 
@@ -18,6 +18,29 @@ Each Department, Agency or Non-Governmental Body was asked to provide the same i
 3. Additionaly, "Details on what training and consultant services were for would be useful."
 
 At the time of the request (December 2018) 1. would provide three and a half years of data.
+
+## Status of Requests
+
+__National Ambulance Services__
+
+| Recipient        | Status        |  Reference # | Date Sent  | Deadline  |
+| -------------    |:-------------:| ------------ | ---------- | --------- |
+| East of England  |               |              | 13/12/18   | ~16/01/19 |
+| East Midlands    | Acknowledged  | FOI 18-785   | 13/12/18   | ~16/01/19 |
+| North West       |               |              | 13/12/18   | ~16/01/19 | 
+| North East       | Acknowledged  | FOI.18.316   | 13/12/18   | ~16/01/19 |
+| South Central    |               |              | 13/12/18   | ~16/01/19 |
+| South East Coast |               |              | 13/12/18   | ~16/01/19 | 
+| South Western    |               |              | 13/12/18   | ~16/01/19 |
+| West Midlands    |               |              | 13/12/18   | ~16/01/19 |
+| Yorkshire        | Acknowledged  | 2018/19-346  | 13/12/18   | ~16/01/19 | 
+| Northern Ireland | Acknowledged  | AD/IG/01(2)/197-18 | 13/12/18   | ~16/01/19 | 
+| Welsh            | Acknowledged  | 23918        | 13/12/18   | ~16/01/19 | 
+| Guernsey         |               |              |    |  | 
+| Isle of Man      |               |              |    |  | 
+| States of Jersey |               |              |    |  | 
+
+_Deadline dates are approximations due to difficulty calculating during Christmas holiday period._
 
 ## National Ambulance Services
 
