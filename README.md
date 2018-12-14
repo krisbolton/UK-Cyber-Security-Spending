@@ -46,6 +46,37 @@ __Legend__
 
 _GitHub doesn't allow text highlighting, so icons were used to increase comprehension at-a-glace._
 
+### Prime Ministers Office and Ministerial Departments
+
+| Recipient                                              | Status                   |  Reference No. | Date Sent  | Deadline  |
+| -------------                                          | -------------            | ------------ | ---------- | --------- |
+| [Prime Ministers Office](#prime-ministers-office)      |                          |              |            |           |
+| [Attorney General's Offie](#attorney-generals-office)  |                          |              |           |             |
+| [Cabinet Office](#cabinet-office)                      |                          |              |        |       |
+| [Department for Business, Energy and Industrial Strategy](#department-for-business,-energy-and-industrial-strategy)  |     |              |    |    |
+| [Department for Digital, Culture, Media and Sport](#department-for-digital,-culture,-media-and-sport)  |     |              |    |    |
+| [Department of Education](#department-of-education)  |                            |              |         |         |
+| [Department for Environment, Food and Rurual Affairs](#department-for-environment,-food-and-rural-affairs)  |     |              |    |    |
+| [Department for Exiting the European Union](#department-for-exiting-the-european-union)  |     |              |    |    |
+| [Department for International Development](#department-for-international-development)  |     |              |    |    |
+| [Department for International Trade](#department-for-international-trade)  |     |              |    |    |
+| [Department for Transport](#department-for-transport)  |     |              |    |    |
+| [Department for Work and Pensions](#department-for-work-and-pensions)  |     |              |    |    |
+| [Department for Health and Social Care](#department-for-health-and-social-care)  |     |              |    |    |
+| [Foreign and Commonwealth Office](#foreign-and-commonwealth-office)  |     |              |    |    |
+| [HM Treasury](#hm-treasury)  |     |              |    |    |
+| [Home Office](#home-office)  |     |              |    |    |
+| [Ministry of Defence](#ministry-of-defense)  |     |              |    |    |
+| [Ministry of Housing, Communities and Local Government](#ministry-of-housing,-communities-and-local-government)  |     |              |    |    |
+| [Ministry of Justice](#ministry-of-justice)  |     |              |    |    |
+| [Northern Ireland Office](#northern-ireland-office)  |     |              |    |    |
+| [Office of the Avocate General for Scotland](#office-of-the-advocate-general-for-scotland)  |     |              |    |    |
+| [Office of the Leader of the House of Commons](#office-of-the-leader-of-the-house-of-commons)  |     |              |    |    |
+| [Office of the Leader of the House of Lords](#office-of-the-leader-of-the-house-of-lords)  |     |              |    |    |
+| [Office of the Secretary of State for Scotland](#office-of-the-secretary-of-state-for-scotland)  |     |              |    |    |
+| [Office of the Secretary of State for Wales](#office-of-the-secretary-of-state-for-wales)  |     |              |    |    |
+| [UK Export Finance](#uk-export-finance)  |     |              |    |    |
+
 ### National and Regional Ambulance Services
 
 | Recipient                                              | Status                   |  Reference No. | Date Sent  | Deadline  |
@@ -74,6 +105,12 @@ _Deadline dates are approximations due to difficulty calculating during Christma
 ---------------------------------------------------------------------------
 
 # The Data
+
+## Ministerial Departments
+
+There are 25 Ministerial Departments within the UK Government.
+
+---------------------------------------------------------------------------
 
 ## National and Regional Ambulance Services
 
