@@ -199,3 +199,13 @@ You can contact me at:  alt [dot] krisb [at] gmail [dot] com
 >Kris Bolton   
 
 :top: __[Back to Top](#uk-cyber-security-spending)__
+
+---------------------------------------------------------------------------------
+
+## The Use of GitHub
+
+GitHub is designed for software version control. Apart from its distributed nature allowing collaberation and redundancy, a main feature is the ability to log and view changes between additions (commits) and attribute them to a user. As a result GitHub, and other public distributed version control repositories are ideal for creating and storing datasets such as this one. Users can view every change from the projects creation. Commented and used well by the creator, the reason for each change is recorded.
+
+Additionally, the use of GPG Keys can confirm the ID of the user committing changes to a repository.
+
+__To view the commit history click the number of [commits](https://github.com/krisbolton/UK-Cyber-Security-Spending-Data/commits/master) listed on the main repository page__
