@@ -6,7 +6,7 @@ Data from multiple Freedom of Information (FOI) requests to UK Government Depart
 
 The informaiton contained within this repository was provided under the Freedom of Information Act (2000/2002 (Scotland)) and is thus free to use. Images below created by myself are also free to use.
 
-If you find this interesting please share it. Consider watching and/or leave a :star:
+If you find this interesting please share it. Consider watching :eyeglasses: and/or leave a :star:
 
 ## Contents
 
@@ -14,8 +14,14 @@ If you find this interesting please share it. Consider watching and/or leave a :
 2. [The FOI Request](#the-foi-request)
 3. [Status of Requests](#status-of-requests)
    * [Prime Minister's Office and Ministerial Departments](#prime-ministers-office-and-ministerial-departments)
-   * [National & Regional Ambulance Services](#national-and-regional-ambulance-services)
+   * [National and Regional Ambulance Services](#national-and-regional-ambulance-services)
 4. [The Data](#the-data)
+   * [Prime Minister's Office and Ministerial Departments](#prime-ministers-office-and-ministerial-departments)
+   * [National and Regional Ambulance Services](#national-and-regional-ambulance-services)
+5. [Copyright](#copyright)
+6. [Contact](#contact)
+7. [References](#references)
+8. [Appendix](#appendix)
 
 ## Rationale
 
