@@ -90,9 +90,9 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 
 ### National and Regional Ambulance Services
 
-| Recipient                                              | Status                   |  Reference No. | Date Sent  | Deadline  |
-| -------------                                          | -------------            | ------------ | ---------- | --------- |
-| [East of England](#east-of-england-ambulance-service)  | Sent :mailbox_with_mail: |              | 13/12/18   | ~16/01/19 |
+| Recipient                                              | Status                   |  Reference No. | Date Sent  | Deadline  | Response |
+| -------------                                          | -------------            | ------------ | ---------- | --------- | --------|
+| [East of England](#east-of-england-ambulance-service)  | Sent :mailbox_with_mail: | 18862        | 13/12/18   | ~16/01/19 | 03/01/2019 |
 | [East Midlands](#east-midlands-abmulance-service)      | Acknowledged :thumbsup:  | FOI 18-785   | 13/12/18   | ~16/01/19 |
 | [London](#london-ambulance-service)                    | Sent :mailbox_with_mail: |            | 13/12/18   | ~16/01/19 |
 | [North West](#north-west-abmulance-service)            | Sent :mailbox_with_mail: |              | 13/12/18   | ~16/01/19 | 
@@ -130,6 +130,12 @@ There are sixteen Ambulance Services within the United Kingdom; one each for Sco
 ## Engand
 
 ### East of England Ambulance Service
+
+|Broad Category                | 2015/16 | 2016/17 | 2017/18 |
+|Computer Security             | £6,000  | £6,000  | £6,000  |
+|Network Security              |         |         | £11,000 |
+|Hardware & Associated Support |         | £52,000 | £52,000 |
+|Consultnacy                   | £12,050 |         |         |
 
 ### East Midlands Abmulance Service
 
