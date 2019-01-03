@@ -57,7 +57,7 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 
 ### Prime Ministers Office and Ministerial Departments
 
-| Recipient                                              | Status                   |  Reference No. | Date Sent  | Deadline  |
+| Recipient                                              | Status                   |  Ref No. | Date Sent  | Deadline  |
 | -------------                                          | -------------            | ------------ | ---------- | --------- |
 | [Prime Minister's Office](#prime-ministers-office)      |                          |              |            |           |
 | [Attorney General's Office](#attorney-generals-office)  |                          |              |           |             |
@@ -90,7 +90,7 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 
 ### National and Regional Ambulance Services
 
-| Recipient                                              | Status                   |  Reference No. | Date Sent  | Deadline  | Response |
+| Recipient                                              | Status                   |  Ref No. | Date Sent  | Deadline  | Response |
 | -------------                                          | -------------            | ------------ | ---------- | --------- | --------|
 | [East of England](#east-of-england-ambulance-service)  | Complete :heavy_check_mark: | 18862        | 13/12/18   | ~16/01/19 | 03/01/2019 |
 | [East Midlands](#east-midlands-abmulance-service)      | Acknowledged :thumbsup:  | FOI 18-785   | 13/12/18   | ~16/01/19 |
