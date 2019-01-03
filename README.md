@@ -131,11 +131,12 @@ There are sixteen Ambulance Services within the United Kingdom; one each for Sco
 
 ### East of England Ambulance Service
 
-|Broad Category                | 2015/16 | 2016/17 | 2017/18 |
-|Computer Security             | £6,000  | £6,000  | £6,000  |
-|Network Security              |         |         | £11,000 |
-|Hardware & Associated Support |         | £52,000 | £52,000 |
-|Consultnacy                   | £12,050 |         |         |
+| Broad Category                | 2015/16 | 2016/17 | 2017/18 |
+|-------------------------------|---------|---------|---------|
+| Computer Security             | £6,000  | £6,000  | £6,000  |
+| Network Security              |         |         | £11,000 |
+| Hardware & Associated Support |         | £52,000 | £52,000 |
+| Consultnacy                   | £12,050 |         |         |
 
 ### East Midlands Abmulance Service
 
