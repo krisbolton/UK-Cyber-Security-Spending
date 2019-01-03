@@ -60,12 +60,12 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 | Recipient                                              | Status                   |  Reference No. | Date Sent  | Deadline  |
 | -------------                                          | -------------            | ------------ | ---------- | --------- |
 | [Prime Minister's Office](#prime-ministers-office)      |                          |              |            |           |
-| [Attorney General's Offie](#attorney-generals-office)  |                          |              |           |             |
+| [Attorney General's Office](#attorney-generals-office)  |                          |              |           |             |
 | [Cabinet Office](#cabinet-office)                      |                          |              |        |       |
-| [Department for Business, Energy and Industrial Strategy](#department-for-business,-energy-and-industrial-strategy)  |     |              |    |    |
-| [Department for Digital, Culture, Media and Sport](#department-for-digital,-culture,-media-and-sport)  |     |              |    |    |
+| [Department for Business, Energy and Industrial Strategy](#department-for-business-energy-and-industrial-strategy)  |     |              |    |    |
+| [Department for Digital, Culture, Media and Sport](#department-for-digital-culture-media-and-sport)  |     |              |    |    |
 | [Department of Education](#department-of-education)  |                            |              |         |         |
-| [Department for Environment, Food and Rurual Affairs](#department-for-environment,-food-and-rural-affairs)  |     |              |    |    |
+| [Department for Environment, Food and Rurual Affairs](#department-for-environment-food-and-rurual-affairs)  |     |              |    |    |
 | [Department for Exiting the European Union](#department-for-exiting-the-european-union)  |     |              |    |    |
 | [Department for International Development](#department-for-international-development)  |     |              |    |    |
 | [Department for International Trade](#department-for-international-trade)  |     |              |    |    |
@@ -75,11 +75,11 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 | [Foreign and Commonwealth Office](#foreign-and-commonwealth-office)  |     |              |    |    |
 | [HM Treasury](#hm-treasury)  |     |              |    |    |
 | [Home Office](#home-office)  |     |              |    |    |
-| [Ministry of Defence](#ministry-of-defense)  |     |              |    |    |
-| [Ministry of Housing, Communities and Local Government](#ministry-of-housing,-communities-and-local-government)  |     |              |    |    |
+| [Ministry of Defense](#ministry-of-defense)  |     |              |    |    |
+| [Ministry of Housing, Communities and Local Government](#ministry-of-housing-communities-and-local-government)  |     |              |    |    |
 | [Ministry of Justice](#ministry-of-justice)  |     |              |    |    |
 | [Northern Ireland Office](#northern-ireland-office)  |     |              |    |    |
-| [Office of the Avocate General for Scotland](#office-of-the-advocate-general-for-scotland)  |     |              |    |    |
+| [Office of the Advocate General for Scotland](#office-of-the-advocate-general-for-scotland)  |     |              |    |    |
 | [Office of the Leader of the House of Commons](#office-of-the-leader-of-the-house-of-commons)  |     |              |    |    |
 | [Office of the Leader of the House of Lords](#office-of-the-leader-of-the-house-of-lords)  |     |              |    |    |
 | [Office of the Secretary of State for Scotland](#office-of-the-secretary-of-state-for-scotland)  |     |              |    |    |
@@ -120,6 +120,58 @@ _Deadline dates are approximations due to difficulty calculating during Christma
 ## Prime Ministers Office and Ministerial Departments
 
 There are 24 Ministerial Departments within the UK Government along with the Prime Minister's Office<sup>[[1](#references)]</sup>.
+
+### Prime Ministers Office
+
+### Attorney Generals Office
+
+### Cabinet Office
+
+### Department for Business, Energy and Industrial Strategy
+
+### Department for Digital, Culture, Media and Sport
+
+### Department of Education
+
+### Department for Environment, Food and Rurual Affairs
+
+### Department for Exiting the European Union
+
+### Department for International Development
+
+### Department for International Trade
+
+### Department for Transport
+
+### Department for Work and Pensions
+
+### Department for Health and Social Care
+
+### Foreign and Commonwealth Office
+
+### HM Treasury
+
+### Home Office
+
+### Ministry of Defense
+
+### Ministry of Housing, Communities and Local Government
+
+### Ministry of Justice
+
+### Northern Ireland Office
+
+### Office of the Advocate General for Scotland
+
+### Office of the Leader of the House of Commons
+
+### Office of the Leader of the House of Lords
+
+### Office of the Secretary of State for Scotland
+
+### Office of the Secretary of State for Wales
+
+### UK Export Finance
 
 ---------------------------------------------------------------------------
 
