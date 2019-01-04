@@ -50,7 +50,7 @@ __Legend__
 + Sent :mailbox_with_mail:
 + Acknowledged :thumbsup:
 + Complete: Data Held :heavy_check_mark:
-+ Complete: No Data Held :x:
++ Complete: No Data Held / Data Withheld :x:
 + Overdue :triangular_flag_on_post:
 
 _GitHub doesn't allow text highlighting, so icons were used to increase comprehension at-a-glace._
@@ -94,7 +94,7 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 | -------------                                          | -------------            | ------------ | ---------- | --------- | --------|
 | [East of England](#east-of-england-ambulance-service)  | Complete :heavy_check_mark: | 18862        | 13/12/18   | ~16/01/19 | 03/01/2019 |
 | [East Midlands](#east-midlands-abmulance-service)      | Acknowledged :thumbsup:  | FOI 18-785   | 13/12/18   | ~16/01/19 |
-| [London](#london-ambulance-service)                    | Sent :mailbox_with_mail: |            | 13/12/18   | ~16/01/19 |
+| [London](#london-ambulance-service)                    | Withheld :x: |            | 13/12/18   | ~16/01/19 |
 | [North West](#north-west-abmulance-service)            | Sent :mailbox_with_mail: |              | 13/12/18   | ~16/01/19 | 
 | [North East](#north-east-abmulance-service)            | Acknowledged :thumbsup:  | FOI.18.316   | 13/12/18   | ~16/01/19 |
 | [South Central](#south-central-abmulance-service)      | Sent :mailbox_with_mail: |              | 13/12/18   | ~16/01/19 |
