@@ -94,7 +94,7 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 | -------------                                          | -------------            | ------------ | ---------- | --------- | --------|
 | [East of England](#east-of-england-ambulance-service)  | Complete :heavy_check_mark: | 18862        | 13/12/18   | ~16/01/19 | 03/01/2019 |
 | [East Midlands](#east-midlands-abmulance-service)      | Acknowledged :thumbsup:  | FOI 18-785   | 13/12/18   | ~16/01/19 |
-| [London](#london-ambulance-service)                    | Withheld :x: |            | 13/12/18   | ~16/01/19 |
+| [London](#london-ambulance-service)                    | Withheld :x: | 3366 | 13/12/18   | ~16/01/19 | 03/01/2019 |
 | [North West](#north-west-abmulance-service)            | Sent :mailbox_with_mail: |              | 13/12/18   | ~16/01/19 | 
 | [North East](#north-east-abmulance-service)            | Acknowledged :thumbsup:  | FOI.18.316   | 13/12/18   | ~16/01/19 |
 | [South Central](#south-central-abmulance-service)      | Sent :mailbox_with_mail: |              | 13/12/18   | ~16/01/19 |
@@ -110,6 +110,16 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 | [States of Jersey](#states-of-jersey-ambulance-service)|                          |              |            |           | 
 
 _Deadline dates are approximations due to difficulty calculating during Christmas holiday period._
+
+#### Notes on National and Regional Ambulance Services Responses
+
+__London Ambulance Service__ withheld the requested informaiton under the following two exemptions:
+
+* _s.21 Information reasonably accessible to the applicant by other means._ This refers to their annual accounts in which they break down their annual budget. However, this does not include all of the information requested, it contains data related to the broad category of IT. Additionally, this only includes expenditure over £25,000.
+
+* _s.43(2) Prejudice to commercial interests "in respect to information on expenditure within the categories you have highlighted and that is not already publicly available, we have carried out the public interest test and have concluded that disclosure of this information could prejudice the commercial interests of the Trust and, therefore, that the public interest in withholding this information outweighs the public interest in disclosure."_
+
+In line with legislation an internal review will be requested of LBS to gain access to the requested informaiton. I believe this informaiton is in the public interest - to ensure LBS are taking cyber security seriously and compare expenditure to other ambulance services. Additionally, in my view revealing the expenditure on broad categories of cyber security spending does not damage the trusts commerical interests as no additional information or details are being requested.
 
 :top: __[Back to Top](#uk-cyber-security-spending)__
 
