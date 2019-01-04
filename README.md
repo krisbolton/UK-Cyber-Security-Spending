@@ -62,10 +62,10 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 | [Prime Minister's Office](#prime-ministers-office)      | Sent :mailbox_with_mail: |              | 03/01/2019 | 28/01/2019 |
 | [Attorney General's Office](#attorney-generals-office)  | Acknowledged :thumbsup: |              | 03/01/2019 | 28/01/2019 |
 | [Cabinet Office](#cabinet-office)                      | Sent :mailbox_with_mail: |              | 03/01/2019 | 28/01/2019 |
-| [Department for Business, Energy and Industrial Strategy](#department-for-business-energy-and-industrial-strategy)  |     |              |    |    |
-| [Department for Digital, Culture, Media and Sport](#department-for-digital-culture-media-and-sport)  |     |              |    |    |
+| [Department for Business, Energy and Indust...](#department-for-business-energy-and-industrial-strategy)  |     |              |    |    |
+| [Department for Digital, Culture, Media and...](#department-for-digital-culture-media-and-sport)  |     |              |    |    |
 | [Department of Education](#department-of-education)  |                            |              |         |         |
-| [Department for Environment, Food and Rurual Affairs](#department-for-environment-food-and-rurual-affairs)  |     |              |    |    |
+| [Department for Environment, Food and Rur...](#department-for-environment-food-and-rurual-affairs)  |     |              |    |    |
 | [Department for Exiting the European Union](#department-for-exiting-the-european-union)  |     |              |    |    |
 | [Department for International Development](#department-for-international-development)  |     |              |    |    |
 | [Department for International Trade](#department-for-international-trade)  |     |              |    |    |
@@ -76,7 +76,7 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 | [HM Treasury](#hm-treasury)  |     |              |    |    |
 | [Home Office](#home-office)  |     |              |    |    |
 | [Ministry of Defense](#ministry-of-defense)  |     |              |    |    |
-| [Ministry of Housing, Communities and Local Government](#ministry-of-housing-communities-and-local-government)  |     |              |    |    |
+| [Ministry of Housing, Communities and Local...](#ministry-of-housing-communities-and-local-government)  |     |              |    |    |
 | [Ministry of Justice](#ministry-of-justice)  |     |              |    |    |
 | [Northern Ireland Office](#northern-ireland-office)  |     |              |    |    |
 | [Office of the Advocate General for Scotland](#office-of-the-advocate-general-for-scotland)  |     |              |    |    |
