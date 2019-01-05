@@ -41,7 +41,7 @@ Each Department, Agency or Non-Governmental Body was asked to provide the same i
 2. The term "Cyber Security" is defined as: "... consider the term to encompass activities relating to information security, computer security and computer network security. Including staff training, consultant services, software and hardware." 
 3. Additionaly, "Details on what training and consultant services were for ..."
 
-At the time of the request (December 2018) 1. would provide three and a half years of data.
+At the time of the request (December 2018) 1. would provide approximately three years of data.
 
 ## Status of Requests
 
@@ -62,9 +62,9 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 | [Prime Minister's Office](#prime-ministers-office)      | Sent :mailbox_with_mail: |              | 03/01/2019 | 28/01/2019 |
 | [Attorney General's Office](#attorney-generals-office)  | Acknowledged :thumbsup: |              | 03/01/2019 | 28/01/2019 |
 | [Cabinet Office](#cabinet-office)                      | Sent :mailbox_with_mail: |              | 03/01/2019 | 28/01/2019 |
-| [Department for Business, Energy and Indust...](#department-for-business-energy-and-industrial-strategy)  |     |              |    |    |
-| [Department for Digital, Culture, Media and...](#department-for-digital-culture-media-and-sport)  |     |              |    |    |
-| [Department of Education](#department-of-education)  |                            |              |         |         |
+| [Department for Business, Energy and Indust...](#department-for-business-energy-and-industrial-strategy)  | Sent :mailbox_with_mail: |              | 05/01/2019 | 01/02/2019 |
+| [Department for Digital, Culture, Media and...](#department-for-digital-culture-media-and-sport)  | Sent :mailbox_with_mail: |              | 05/01/2019 | 01/02/2019 |
+| [Department of Education](#department-of-education)  | Sent :mailbox_with_mail: |              | 05/01/2019 | 01/02/2019 |
 | [Department for Environment, Food and Rur...](#department-for-environment-food-and-rurual-affairs)  |     |              |    |    |
 | [Department for Exiting the European Union](#department-for-exiting-the-european-union)  |     |              |    |    |
 | [Department for International Development](#department-for-international-development)  |     |              |    |    |
