@@ -258,6 +258,8 @@ You can contact me at:  alt [dot] krisb [at] gmail [dot] com
 ## Appendix
 ### Freedom of Information Request Letter
 
+This letter was sent to all Ambulance Services and the first three ministerial departments.
+
 > Dear [...],  
 >I am writing to request specific information under the freedom of information act 2000.  
 >Could the Service provide the total amount of money spent on Cyber Security within the service for the individual financial years from 2015 – 2018. If possible, segmented by broad categories such as those listed below.  
@@ -266,6 +268,17 @@ You can contact me at:  alt [dot] krisb [at] gmail [dot] com
 >Thank you.  
 >Kind Regards,  
 >Kris Bolton   
+
+This letter was sent to the remaining ministerial departments, police forces and fire services.
+
+>To whom it may concern,  
+>I am writing to request specific information under the freedom of information act 2000.  
+>Could the Department provide the total amount of money spent on Cyber Security within the Department for the individual financial years from 2015 – 2018. If possible, segmented by broad categories such as those listed below.  
+>Cyber Security can be a difficult term to define, in this case, please consider the term to encompass activities relating to information security, computer security and computer network security. Including staff training, consultant services, software and hardware. Details on what training and consultant services were for would be useful.   
+>This information is in the public interest to ensure the Department is taking cyber security seriously and compare expenditure to other departments. Please consider this when reviewing this request. It is not advisable to disclose specific names or versions of software and hardware relating to security.  
+>Thank you.  
+>Kind Regards,  
+>Kris Bolton    
 
 :top: __[Back to Top](#uk-cyber-security-spending)__
 
