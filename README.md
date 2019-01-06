@@ -61,7 +61,7 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 | -------------                                          | -------------            | ------------ | ---------- | --------- |
 | [Prime Minister's Office](#prime-ministers-office)      | Sent :mailbox_with_mail: |              | 03/01/2019 | 28/01/2019 |
 | [Attorney General's Office](#attorney-generals-office)  | Acknowledged :thumbsup: |              | 03/01/2019 | 28/01/2019 |
-| [Cabinet Office](#cabinet-office)                      | Sent :mailbox_with_mail: |              | 03/01/2019 | 28/01/2019 |
+| [Cabinet Office](#cabinet-office)                      | Acknowledged :thumbsup: | FOI327406 | 03/01/2019 | 28/01/2019 |
 | [Department for Business, Energy and Indust...](#department-for-business-energy-and-industrial-strategy)  | Sent :mailbox_with_mail: |              | 05/01/2019 | 01/02/2019 |
 | [Department for Digital, Culture, Media and...](#department-for-digital-culture-media-and-sport)  | Sent :mailbox_with_mail: |              | 05/01/2019 | 01/02/2019 |
 | [Department of Education](#department-of-education)  | Sent :mailbox_with_mail: |              | 05/01/2019 | 01/02/2019 |
