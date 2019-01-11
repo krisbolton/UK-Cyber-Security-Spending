@@ -222,6 +222,9 @@ Withheld, see notes above.
 | 2018/19          | £896,288  |
 
 2018/19 increase in investment due to funding from NHS Digital.
+Data not provided in requested format of broad categories due to "To break this down as
+requested above would require a manual review of each invoice which would exceed 18 hours and
+is therefore exempt under Section 12- FOI".
 
 ### South Western Abmulance Service
 
