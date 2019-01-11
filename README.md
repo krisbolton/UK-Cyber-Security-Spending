@@ -202,6 +202,16 @@ There are sixteen Ambulance Services within the United Kingdom; one each for Sco
 
 ### East Midlands Abmulance Service
 
+| Broad Category                | 2015        | 2016        | 2017       | 2018        |
+|-------------------------------|-------------|-------------|------------|-------------|
+| Network Security              | £133,455.52 | £1,275      | £1,275     | £111,182.50 |
+| Endpoint Security             | †           | £25,416     | £40,830    | £22,987     |
+| Staffing                      | £34,580     | £34,580     | £85,957    | £85,957     |
+| Consultnacy                   | £12,950.00  |             |            |             |
+
+† Note the £133,455.52 spent on Network Security in 2015 also provided endpoint security and is
+impossible to split. The consultancy that year was configuration of the purchase.
+
 ### London Ambulance Service
 
 Withheld, see notes above.
@@ -221,11 +231,11 @@ Withheld, see notes above.
 | 2017/18          | £56,455   |
 | 2018/19          | £896,288  |
 
-* 2018/19 increase in investment due to funding from NHS Digital.
+_2018/19 increase in investment due to funding secured from NHS Digital._
 
-* Data not provided in requested format of broad categories due to "To break this down as
+_Data not provided in requested format of broad categories due to "To break this down as
 requested above would require a manual review of each invoice which would exceed 18 hours and
-is therefore exempt under Section 12- FOI".
+is therefore exempt under Section 12- FOI"._
 
 ### South Western Abmulance Service
 
