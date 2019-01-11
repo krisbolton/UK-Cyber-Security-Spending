@@ -93,7 +93,7 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 | Recipient                                              | Status                   |  Ref No. | Date Sent  | Deadline  | Response |
 | -------------                                          | -------------            | ------------ | ---------- | --------- | --------|
 | [East of England](#east-of-england-ambulance-service)  | Complete :heavy_check_mark: | 18862        | 13/12/18   | ~16/01/19 | 03/01/2019 |
-| [East Midlands](#east-midlands-abmulance-service)      | Acknowledged :thumbsup:  | FOI 18-785   | 13/12/18   | ~16/01/19 |
+| [East Midlands](#east-midlands-abmulance-service)      | Complete :heavy_check_mark: | FOI 18-785   | 13/12/18   | ~16/01/19 | 11/01/2019 |
 | [London](#london-ambulance-service)                    | Withheld :x: | 3366 | 13/12/18   | ~16/01/19 | 03/01/2019 |
 | [North West](#north-west-abmulance-service)            | Complete :heavy_check_mark: | FOI1371 | 13/12/18   | ~16/01/19 | 10/01/2019 |
 | [North East](#north-east-abmulance-service)            | Acknowledged :thumbsup:  | FOI.18.316   | 13/12/18 | ~16/01/19 |
