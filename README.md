@@ -204,13 +204,12 @@ There are sixteen Ambulance Services within the United Kingdom; one each for Sco
 
 | Broad Category                | 2015        | 2016        | 2017       | 2018        |
 |-------------------------------|-------------|-------------|------------|-------------|
-| Network Security              | £133,455.52 | £1,275      | £1,275     | £111,182.50 |
+| Network Security              | £133,455.52† | £1,275      | £1,275     | £111,182.50 |
 | Endpoint Security             | †           | £25,416     | £40,830    | £22,987     |
 | Staffing                      | £34,580     | £34,580     | £85,957    | £85,957     |
-| Consultnacy                   | £12,950.00  |             |            |             |
+| Consultnacy                   | £12,950.00†  |             |            |             |
 
-† Note the £133,455.52 spent on Network Security in 2015 also provided endpoint security and is
-impossible to split. The consultancy that year was configuration of the purchase.
+† _Note the £133,455.52 spent on Network Security in 2015 also provided endpoint security. The consultancy that year was configuration of the purchase._
 
 ### London Ambulance Service
 
