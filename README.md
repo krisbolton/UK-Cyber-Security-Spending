@@ -95,10 +95,10 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 | [East of England](#east-of-england-ambulance-service)  | Complete :heavy_check_mark: | 18862        | 13/12/18   | ~16/01/19 | 03/01/2019 |
 | [East Midlands](#east-midlands-abmulance-service)      | Acknowledged :thumbsup:  | FOI 18-785   | 13/12/18   | ~16/01/19 |
 | [London](#london-ambulance-service)                    | Withheld :x: | 3366 | 13/12/18   | ~16/01/19 | 03/01/2019 |
-| [North West](#north-west-abmulance-service)            | Complete :heavy_check_mark: | FOI1371 | 13/12/18   | ~16/01/19 | 10/01/2019
-| [North East](#north-east-abmulance-service)            | Acknowledged :thumbsup:  | FOI.18.316   | 13/12/18   | ~16/01/19 |
-| [South Central](#south-central-abmulance-service)      | Sent :mailbox_with_mail: |              | 13/12/18   | ~16/01/19 |
-| [South East Coast](#south-east-coast-abmulance-service)| Sent :mailbox_with_mail: |              | 13/12/18   | ~16/01/19 | 
+| [North West](#north-west-abmulance-service)            | Complete :heavy_check_mark: | FOI1371 | 13/12/18   | ~16/01/19 | 10/01/2019 |
+| [North East](#north-east-abmulance-service)            | Acknowledged :thumbsup:  | FOI.18.316   | 13/12/18 | ~16/01/19 |
+| [South Central](#south-central-abmulance-service)      | Sent :mailbox_with_mail: |              | 13/12/18 | ~16/01/19 |
+| [South East Coast](#south-east-coast-abmulance-service)| Complete :heavy_check_mark: | FOI/18/12/29 | 13/12/18 | ~16/01/19 | 11/01/2019 |
 | [South Western](#south-western-abmulance-service)      | Sent :mailbox_with_mail: |            | 13/12/18   | ~16/01/19 |
 | [West Midlands](#west-midlands-abmulance-service)      | Sent :mailbox_with_mail: |              | 13/12/18   | ~16/01/19 |
 | [Yorkshire](#yorkshire-abmulance-service)              | Acknowledged :thumbsup:  | 2018/19-346  | 13/12/18   | ~16/01/19 | 
@@ -213,6 +213,15 @@ Withheld, see notes above.
 ### South Central Abmulance Service
 
 ### South East Coast Abmulance Service
+
+| Financial Year   | 2015/16   | 
+|------------------|-----------|
+| 2015/16          | £46,484   |
+| 2016/17          | £102,919  |
+| 2017/18          | £56,455   |
+| 2018/19          | £896,288  |
+
+2018/19 increase in investment due to funding from NHS Digital.
 
 ### South Western Abmulance Service
 
