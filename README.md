@@ -96,7 +96,7 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 | [East Midlands](#east-midlands-abmulance-service)      | Complete :heavy_check_mark: | FOI 18-785   | 13/12/18   | ~16/01/19 | 11/01/2019 |
 | [London](#london-ambulance-service)                    | Withheld :x: | 3366 | 13/12/18   | ~16/01/19 | 03/01/2019 |
 | [North West](#north-west-abmulance-service)            | Complete :heavy_check_mark: | FOI1371 | 13/12/18   | ~16/01/19 | 10/01/2019 |
-| [North East](#north-east-abmulance-service)            | :heavy_check_mark:  | FOI.18.316   | 13/12/18 | ~16/01/19 | 14/0/2019 |
+| [North East](#north-east-abmulance-service)            | Complete :heavy_check_mark:  | FOI.18.316   | 13/12/18 | ~16/01/19 | 14/0/2019 |
 | [South Central](#south-central-abmulance-service)      | Sent :mailbox_with_mail: |              | 13/12/18 | ~16/01/19 |
 | [South East Coast](#south-east-coast-abmulance-service)| Complete :heavy_check_mark: | FOI/18/12/29 | 13/12/18 | ~16/01/19 | 11/01/2019 |
 | [South Western](#south-western-abmulance-service)      | Sent :mailbox_with_mail: |            | 13/12/18   | ~16/01/19 |
