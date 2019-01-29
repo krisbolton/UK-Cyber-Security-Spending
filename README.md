@@ -237,9 +237,9 @@ _Staffing figures not provided. Figures were provided in more specific categorie
 | 2015/16          | £46,484   |
 | 2016/17          | £102,919  |
 | 2017/18          | £56,455   |
-| 2018/19          | £896,288  |
+| 2018/19          | £896,288† |
 
-_2018/19 increase in investment due to funding secured from NHS Digital._
+† _2018/19 increase in investment due to funding secured from NHS Digital._
 
 _Data not provided in requested format of broad categories due to "To break this down as
 requested above would require a manual review of each invoice which would exceed 18 hours and
