@@ -102,7 +102,7 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 | [South Western](#south-western-abmulance-service)      | Sent :mailbox_with_mail: |            | 13/12/18   | ~16/01/19 |
 | [West Midlands](#west-midlands-abmulance-service)      | Sent :mailbox_with_mail: |              | 13/12/18   | ~16/01/19 |
 | [Yorkshire](#yorkshire-abmulance-service)              | Acknowledged :thumbsup:  | 2018/19-346  | 13/12/18   | ~16/01/19 | 
-| [Northern Ireland](#northern-ireland-ambulance-service)| Acknowledged :thumbsup:  | AD/IG/01(2)/197-18 | 13/12/18   | ~16/01/19 | 
+| [Northern Ireland](#northern-ireland-ambulance-service)| Not Held :x:  | AD/IG/01(2)/197-18 | 13/12/18   | ~16/01/19 | 
 | [Welsh](#welsh-ambulance-service)                      | Complete :heavy_check_mark:  | 23918   | 13/12/18  | ~16/01/19 | 15/01/2019 |
 | [Scottish](#scottish-ambulance-service)                | Acknowledged :thumbsup:  | None given   | 13/12/18   | ~16/01/19 | 
 | [Guernsey](#guernsey-ambulance-and-rescue-service)     |                          |              |            |           | 
@@ -252,6 +252,8 @@ is therefore exempt under Section 12- FOI"._
 ### Yorkshire Abmulance Service
 
 ## Northern Ireland
+
+Northern Ireland Ambulance Service does not hold the data in the format requested, nor is it readily or easily obtainable. I was referred to the Annual Accounts, as these hold broad expenditure on IT. This is far to vague to appear in this list.
 
 ### Northern Ireland Ambulance Service
 
