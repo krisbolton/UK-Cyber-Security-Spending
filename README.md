@@ -232,7 +232,7 @@ _Staffing figures not provided. Figures were provided in more specific categorie
 
 ### South East Coast Abmulance Service
 
-| Financial Year   | 2015/16   | 
+| Financial Year   | Total     | 
 |------------------|-----------|
 | 2015/16          | £46,484   |
 | 2016/17          | £102,919  |
