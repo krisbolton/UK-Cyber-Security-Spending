@@ -255,6 +255,8 @@ is therefore exempt under Section 12- FOI"._
 
 Northern Ireland Ambulance Service does not hold the data in the format requested, nor is it readily or easily obtainable. I was referred to the Annual Accounts, as these hold broad expenditure on IT. This is far to vague to appear in this list.
 
+If you wish to view this general informaiton you can find their [Annual Reports & Accounts](http://www.nias.hscni.net/about-the-trust/corporate-information/) under Reports > Annual Reports & Accounts.
+
 ### Northern Ireland Ambulance Service
 
 ## Wales
