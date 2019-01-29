@@ -103,7 +103,7 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 | [West Midlands](#west-midlands-abmulance-service)      | Sent :mailbox_with_mail: |              | 13/12/18   | ~16/01/19 |
 | [Yorkshire](#yorkshire-abmulance-service)              | Acknowledged :thumbsup:  | 2018/19-346  | 13/12/18   | ~16/01/19 | 
 | [Northern Ireland](#northern-ireland-ambulance-service)| Acknowledged :thumbsup:  | AD/IG/01(2)/197-18 | 13/12/18   | ~16/01/19 | 
-| [Welsh](#welsh-ambulance-service)                      | Acknowledged :thumbsup:  | 23918        | 13/12/18   | ~16/01/19 | 
+| [Welsh](#welsh-ambulance-service)                      | Complete :heavy_check_mark:  | 23918   | 13/12/18  | ~16/01/19 | 15/01/2019 |
 | [Scottish](#scottish-ambulance-service)                | Acknowledged :thumbsup:  | None given   | 13/12/18   | ~16/01/19 | 
 | [Guernsey](#guernsey-ambulance-and-rescue-service)     |                          |              |            |           | 
 | [Isle of Man](#isle-of-man-ambulance-service)          |                          |              |            |           | 
@@ -258,6 +258,13 @@ is therefore exempt under Section 12- FOI"._
 ## Wales
 
 ### Welsh Ambulance Service
+
+| Broad Category                | 2015/6      | 2016/7      | 2017/8     | 
+|-------------------------------|-------------|-------------|------------|
+| Information Security          | £6,076      | £18,894     | £20,403    |
+| Computer Security             | £13,200     | £26,592     | £28,581    |
+| Network Security              | £5,337      | £46,947     | £54,727    |
+| __Total__                     | £24,613     | £92,793     | £103,256   |
 
 ## Scotland
 
