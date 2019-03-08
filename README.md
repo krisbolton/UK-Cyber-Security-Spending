@@ -99,7 +99,7 @@ _GitHub doesn't allow text highlighting, so icons were used to increase comprehe
 | [North East](#north-east-abmulance-service)            | Complete :heavy_check_mark:  | FOI.18.316   | 13/12/18 | ~16/01/19 | 14/0/2019 |
 | [South Central](#south-central-abmulance-service)      | Sent :mailbox_with_mail: |              | 13/12/18 | ~16/01/19 |
 | [South East Coast](#south-east-coast-abmulance-service)| Complete :heavy_check_mark: | FOI/18/12/29 | 13/12/18 | ~16/01/19 | 11/01/2019 |
-| [South Western](#south-western-abmulance-service)      | Sent :mailbox_with_mail: |            | 13/12/18   | ~16/01/19 |
+| [South Western](#south-western-abmulance-service)      | Complete :heavy_check_mark: | FOI 2910 | 13/12/18   | ~16/01/19 | 08/01/19 |
 | [West Midlands](#west-midlands-abmulance-service)      | Sent :mailbox_with_mail: |              | 13/12/18   | ~16/01/19 |
 | [Yorkshire](#yorkshire-abmulance-service)              | Acknowledged :thumbsup:  | 2018/19-346  | 13/12/18   | ~16/01/19 | 
 | [Northern Ireland](#northern-ireland-ambulance-service)| Not Held :x:  | AD/IG/01(2)/197-18 | 13/12/18   | ~16/01/19 | 
@@ -246,6 +246,15 @@ requested above would require a manual review of each invoice which would exceed
 is therefore exempt under Section 12- FOI"._
 
 ### South Western Abmulance Service
+
+| Financial Year   | Total     | 
+|------------------|-----------|
+| 2015             | £5k-10k   |
+| 2016             | £15k-20k  |
+| 2017             | £10k-15k  |
+| 2018             | £10k-15k  |
+
+_Data not provided in requested format of broad categories due to "The Trust considers that disclosing information regarding our IT systems could undermine the Trust’s security arrangements and that, in turn, this would be likely to endanger the safety of patient’s and Trust staff. As such, the Trust takes the view that, although we hold this information, it is exempt from disclosure under s38 of the Freedom of Information Act"._
 
 ### West Midlands Abmulance Service
 
