@@ -1,10 +1,12 @@
 # UK Cyber Security Spending
 
-![Project Status: On Going](https://img.shields.io/badge/project%20status-in%20progress-yellow.svg)
+![Project Status: Paused](https://img.shields.io/badge/project%20status-paused-red.svg)
 
 Data from multiple Freedom of Information (FOI) requests to UK Government Departments, Agencies, and Non-Governmental Bodies relating to Cyber Security spending.
 
 The informaiton contained within this repository was provided under the Freedom of Information Act 2000 / 2002 (Scotland) and is thus free to use. Images below created by myself are also free to use.
+
+The project is currently paused. While the information is incomplete this can be updated with subsequent FOI requests in the future, and some inferences can be drawn from the data, or used in conjuntion with your own FOI requests.
 
 If you find this interesting please share it. Consider watching :eyeglasses: and/or leave a :star:
 
